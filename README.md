@@ -21,6 +21,7 @@ The project is structured for clarity and reproducibility..
 └── requirements.txt            # List of required dependencies
 
 DependenciesTo replicate the analysis, please install the required libraries:Bash
+
 pandas
 numpy
 scikit-learn
